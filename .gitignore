@@ -226,8 +226,6 @@ __marimo__/
 *.swp
 *.pkl
 *.pth
-result*
-weights*
 
 #Any imgs
 *.png
