@@ -228,3 +228,23 @@ __marimo__/
 *.pth
 result*
 weights*
+
+#Any imgs
+*.png
+*.jpg 
+*.jpeg 
+*.jpe 
+*.jfif 
+*.gif 
+*.bmp 
+*.dib 
+*.tif 
+*.tiff 
+*.webp 
+*.avif 
+*.svg 
+*.ico 
+*.cur 
+*.raw 
+*.psd
+
